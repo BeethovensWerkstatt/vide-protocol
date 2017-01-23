@@ -1,0 +1,23 @@
+{
+  "name": "vide-protocol",
+  "version": "1.0.0",
+  "description": "Communication protocol for VideApp",
+  "main": "vide-protocol.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeethovensWerkstatt/vide-protocol.git"
+  },
+  "keywords": [
+    "VideApp",
+    "Edirom"
+  ],
+  "author": "Johannes Kepper",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/BeethovensWerkstatt/vide-protocol/issues"
+  },
+  "homepage": "https://github.com/BeethovensWerkstatt/vide-protocol#readme"
+}
