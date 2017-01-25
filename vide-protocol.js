@@ -1,3 +1,5 @@
+"use strict";
+
 const VIDE_PROTOCOL = {
     
     OBJECT: {
@@ -41,4 +43,6 @@ const VIDE_PROTOCOL = {
     
 };
 
-export default VIDE_PROTOCOL;
+module.exports = {
+    VIDE_PROTOCOL: VIDE_PROTOCOL
+};
